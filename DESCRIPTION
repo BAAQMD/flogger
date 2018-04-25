@@ -1,0 +1,11 @@
+Package: flogger
+Type: Package
+Title: Enhances the futile.logger Package
+Version: 0.1.1
+Depends:
+  futile.logger
+Authors@R: person("David", "Holstius", email = "dholstius@baaqmd.gov", role = c("aut", "cre"))
+Description: Provides a convenient default logger
+License: MIT
+LazyData: TRUE
+RoxygenNote: 6.0.1
